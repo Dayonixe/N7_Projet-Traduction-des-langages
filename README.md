@@ -1,6 +1,8 @@
 # Projet Traduction des Langages
 
-<img src="https://img.shields.io/badge/language-OCaml-f18d00?style=flat-square" alt="laguage-eCore" />
+<a href="https://ocaml.org/">
+  <img src="https://img.shields.io/badge/language-OCaml-f18d00?style=flat-square" alt="laguage-eCore" />
+</a>
 
 ---
 
